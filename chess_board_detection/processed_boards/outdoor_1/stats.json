@@ -1,0 +1,37 @@
+{
+  "folder": "outdoor_1",
+  "total_images": 4,
+  "success_count": 4,
+  "fail_count": 0,
+  "total_patches": 360,
+  "results": [
+    {
+      "file": "outdoor_1_01.jpg",
+      "success": true,
+      "angle": 0,
+      "inliers": 81,
+      "patches": 90
+    },
+    {
+      "file": "outdoor_1_02.jpg",
+      "success": true,
+      "angle": 0,
+      "inliers": 34,
+      "patches": 90
+    },
+    {
+      "file": "outdoor_1_03.jpg",
+      "success": true,
+      "angle": 0,
+      "inliers": 77,
+      "patches": 90
+    },
+    {
+      "file": "outdoor_1_04.jpg",
+      "success": true,
+      "angle": 0,
+      "inliers": 45,
+      "patches": 90
+    }
+  ]
+}

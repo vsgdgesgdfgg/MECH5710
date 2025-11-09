@@ -1,0 +1,37 @@
+{
+  "folder": "indoor_2",
+  "total_images": 4,
+  "success_count": 4,
+  "fail_count": 0,
+  "total_patches": 360,
+  "results": [
+    {
+      "file": "indoor_2_01.jpg",
+      "success": true,
+      "angle": 0,
+      "inliers": 114,
+      "patches": 90
+    },
+    {
+      "file": "indoor_2_02.jpg",
+      "success": true,
+      "angle": 0,
+      "inliers": 74,
+      "patches": 90
+    },
+    {
+      "file": "indoor_2_03.jpg",
+      "success": true,
+      "angle": 90,
+      "inliers": 75,
+      "patches": 90
+    },
+    {
+      "file": "indoor_2_04.jpg",
+      "success": true,
+      "angle": 180,
+      "inliers": 24,
+      "patches": 90
+    }
+  ]
+}
